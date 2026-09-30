@@ -1,0 +1,13 @@
+{
+  "name": "appiraq-stream-proxy",
+  "version": "1.0.0",
+  "description": "Free HTTPS Stream Relay Proxy for IPTV",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
